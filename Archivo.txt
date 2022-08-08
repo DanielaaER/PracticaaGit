@@ -3,3 +3,7 @@ Tengo 18 años
 soy estudiante de Ingenieria de software
 Me gusta la reposteria, en especial hacer pasteles y pays
 Mi banda favorita es Twenty one pilots, pero tambien me gusta la musica de the neighbourdhood, taylor swift, te 1975, yungblud, 5sos, etc.
+
+Aprendi programacion cuando tenia 15 años, empece en C y tiempo despues aprendi c++ (que se volvio mi lenguaje favorito)
+posteriormente aprendi BD, aprendi vba, js, html, css(apesar de no ser de mis favoritos)
+tengo conocimientos en ASP.NET
