@@ -7,3 +7,6 @@ Mi banda favorita es Twenty one pilots, pero tambien me gusta la musica de the n
 Aprendi programacion cuando tenia 15 años, empece en C y tiempo despues aprendi c++ (que se volvio mi lenguaje favorito)
 posteriormente aprendi BD, aprendi vba, js, html, css(apesar de no ser de mis favoritos)
 tengo conocimientos en ASP.NET
+
+Formo parte del GDSC UV desde hace un año
+ademas de formar parte del gdsc estoy en el programa de IBM Student Adocate
